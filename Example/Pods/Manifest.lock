@@ -1,5 +1,5 @@
 PODS:
-  - BowLiteCore (0.4.0)
+  - BowLiteCore (0.5.0)
   - Nimble (8.1.2)
   - Quick (2.2.1)
 
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BowLiteCore: 0c936e6485743691441aea2900be2f83f83f7333
+  BowLiteCore: 368aa9b108d6661987ed8a79ec7eff916fbbd094
   Nimble: 3864815b4703c7ebffba875973c70e854489fbae
   Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
 

@@ -1,6 +1,6 @@
 {
   "name": "BowLiteCore",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A short description of BowLiteCore.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/haifengkao/BowLiteCore",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/haifengkao/BowLiteCore.git",
-    "tag": "0.4.0"
+    "tag": "0.5.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "10.0",
+    "osx": "10.12"
   },
   "swift_versions": "5.1",
   "source_files": "BowLiteCore/Classes/**/*",
