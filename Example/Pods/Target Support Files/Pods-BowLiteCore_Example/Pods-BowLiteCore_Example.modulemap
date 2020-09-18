@@ -1,0 +1,6 @@
+framework module Pods_BowLiteCore_Example {
+  umbrella header "Pods-BowLiteCore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
