@@ -1,4 +1,7 @@
-precedencegroup PartialApplicationPrecedence {}
+precedencegroup PartialApplicationPrecedence {
+    associativity: left
+    higherThan: AssignmentPrecedence
+}
 
 infix operator |> : PartialApplicationPrecedence
 
